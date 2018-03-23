@@ -1,0 +1,217 @@
+*{
+    border: none;
+    font-family: "黑体";
+    margin: 0px;
+    padding: 0px;
+}
+.safe{
+    width: 1200px;
+    margin: 0 auto;
+}
+input[type=button]:hover{
+    cursor: pointer;
+}
+input{
+    outline: none;
+}
+/*登陆注册、遮罩层*/
+#shade{
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    z-index: 6;
+    display: none;
+}
+/*登陆*/
+#login{
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    margin: 200px auto;
+    /*display: none;*/
+}
+#login_01{
+    width: 450px;
+    height: 100%;
+    margin:auto;
+    text-align: center;
+}
+.login_ipt{
+    width: 317px;
+    margin:10px auto;
+}
+.login_ipt img{
+    width: 30px;
+    height: 30px;
+    float: left;
+}
+.login_ipt input{
+    width: 285px;
+    height: 30px;
+    border: 1px solid #ddd;
+}
+/*警告*/
+.warning{
+    height: 20px;
+    color: red;
+    text-align: center;
+}
+/*滑块*/
+#slider2{
+    margin-left: 59px;
+}
+.loginrel{
+    width: 95px;
+    height: 45px;
+    background-color: #ddd;
+    color: black;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.loginrel:hover{
+    background-color: red;
+    color: white;
+}
+/*注册*/
+#regist{
+    width: 515px;
+    height: 362px;
+    margin: 200px auto;
+    text-align: center;
+    background-color: white;
+}
+.registration_name{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+    margin-bottom: 10px;
+}
+.registration_ipt{
+    width: 300px;
+    height: 30px;
+    margin: 0 auto;
+    border: 1px solid #DDD;
+}
+.registration_ipt_text{
+    text-align: center;
+    font-size: 15px;
+    color: red;
+    height: 22px;
+}
+/*按钮*/
+.registration_button{
+    text-align: center;
+    margin-top: 10px;
+}
+.registration_button_content{
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:black;
+    color: white;
+}
+.registration_button_content:hover{
+    background-color: red;
+    color: white;
+}
+/*导航*/
+#nav{
+    width: 100%;
+    height: 60px;
+    background-color: #e63140;
+}
+#logo{
+    display: inline-block;
+    margin-left: 10%;
+    float: left;
+}
+#nav_cont{
+    display: inline-block;
+    width: 71%;
+    height: 100%;
+    /*position: relative;*/
+}
+#nav_cont img{
+    margin-left: 10%;
+}
+/*用户名显示*/
+#name_show{
+    width: 140px;
+    height: 100%;
+    float: right;
+    /*text-align: center;*/
+    padding-top: 10px;
+}
+#name_show img{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    float: left;
+    background-color: white;
+}
+#name_show p span{
+    padding-top: 10px;
+    color: white;
+}
+#nav_cont_ul{
+    margin-top: 15px;
+    margin-left: 10%;
+    display: inline-block;
+}
+#nav_cont_ul li{
+    list-style-type: none;
+    display: inline-block;
+    color: white;
+    line-height: 29px;
+    font-size: 20px;
+    margin: 0 15px;
+    padding: 0 12px;
+}
+#nav_cont_ul li:hover{
+    background-color: white;
+    color: red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#login_regist{
+    display: inline-block;
+    color: black;
+    margin-left: 15%;
+    /*display: none;*/
+}
+#login_regist span:hover{
+    cursor: pointer;
+    color: white;
+}
+/*页脚*/
+#footer{
+    height: 165px;
+    background-color: #666666;
+    text-align: center;
+    color: white;
+}
+#footer p {
+    margin: 10px 0;
+}
+.pageBox{
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    border: 1px solid #fff;
+    text-align: center;
+}
+.lastPage,.nextPage{
+    background-color: orangered;
+    padding: 3px;
+    margin: 5px;
+    color: #fff;
+    text-decoration: none;
+}
+.pageBtn{
+    background-color: #6147ca;
+    padding: 3px;
+    border: 1px solid #999;
+    color: #fff;
+    text-decoration: none;
+}

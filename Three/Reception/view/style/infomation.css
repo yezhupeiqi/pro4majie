@@ -1,0 +1,248 @@
+#contenter{
+    height: 600px;
+}
+#myCenterDiv{
+    height: 585px;
+    margin:0 auto;
+    border: 1px solid #333;
+}
+#myCenterLeft{
+    width: 300px;
+    background-color: #eee;
+    float: left;
+}
+#personDiv{
+    height: 130px;
+    width: 100%;
+    border-bottom: 1px solid #fff;
+}
+#personImg{
+    height: 100px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 50%;
+    border:2px solid #fff;
+    overflow: hidden;
+    float: left;
+}
+#headimg{
+    height: 100px;
+    width: 100px;
+}
+#personInfo{
+    float: left;
+    margin-top: 30px;
+}
+#personInfo p{
+    height: 30px;
+    line-height: 30px;
+}
+#centerNav li{
+    list-style-type: none;
+    line-height: 50px;
+    border-bottom: 2px solid #fff;
+    text-align: center;
+    color: red;
+}
+#centerNav li:hover{
+    cursor: pointer;
+}
+/*个人详细信息*/
+#infomation li{
+    color: black;
+    margin-left: 40px;
+    border-bottom:none;
+    font-size: 15px;
+}
+#infomation li:hover{
+    color: red;
+}
+/*信息显示*/
+#safe_content{
+    background-color: #eee;
+    height: 100%;
+    width: 74%;
+    float: right;
+}
+#infomation_cont{
+    width: 90%;
+    margin: auto;
+    border-bottom: 2px solid red;
+    line-height: 50px;
+}
+#infomation_show{
+    width: 90%;
+    margin:20px auto;
+    border: 2px solid white;
+    height: 85%;
+    position: relative;
+}
+/*地址显示*/
+#adress_content{
+    position: absolute;
+    width: 100%;
+    height: 9%;
+    top: 74%;
+    background-color: #DDD;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 19px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+#infomation_show_address input{
+    width: 120px;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+}
+#infomation_show_address input:hover{
+    background-color: red;
+    color: white;
+    box-shadow: 2px 2px black;
+}
+#infomationPage p{
+    font-size: 20px;
+    line-height: 50px;
+    border-bottom: 2px dotted white;
+    margin: 10px 20px;
+}
+#infomationPage p b{
+    margin-left: 30%;
+}
+/*修改个人信息*/
+.modInfo{
+    width: 60px;
+    height: 30px;
+    background-color: gray;
+    color: white;
+    border-radius: 10px;
+    float: right;
+    margin-top: 5px;
+}
+.modInfo:hover{
+    background-color: red;
+    color: white;
+    box-shadow: 2px 2px black;
+}
+/*我的钱包*/
+#money{
+    width: 100%;
+    height: 100%;
+}
+#money_balance{
+    width: 80%;
+    height: 20%;
+    background-color: white;
+    margin: 30px auto;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid red;
+}
+#money_balance div input{
+    width: 120px;
+    height: 45px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+}
+#money_balance div input:hover{
+    box-shadow: 2px 2px black;
+}
+/*常见问题*/
+#moneyQA{
+    width: 98%;
+    height: 65%;
+    border: 2px solid white;
+    margin: auto;
+}
+#moneyQA ul li{
+    margin: 15px 0 0 38px;
+    font-size: 18px;
+}
+#moneyQA div div input{
+    width: 100px;
+    height: 25px;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    margin: auto;
+}
+#moneyQA div div input:hover{
+    background-color: red;
+    color: white;
+}
+/*我的聊天*/
+#myChat_cont{
+
+}
+#friedChat_cont{
+    width: 100%;
+    height: 406px;
+}
+#chatingName{
+    background-color: orangered;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+}
+#chated{
+    border: 1px solid white;
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-right: 5px;
+    width: 85px;
+    height: 39px;
+}
+#chated:hover{
+    cursor: pointer;
+    text-shadow: 0 0 3px snow, 0 0 3px snow, 0 0 3px snow, 0 0 3px snow;
+    color: black;
+    background-color: white;
+}
+#chat_text{
+    background-color: orangered;
+    width: 100%;
+    height: 50px;
+}
+#expression{
+    float: left;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#chatCont{
+    width: 582px;
+    height: 30px;
+    margin-left: 10px;
+    border-radius: 7px;
+    background-color: white;
+    display: inline-block;
+    font-size: 21px;
+    outline: none;
+}
+#go_chat{
+    background-color: orangered;
+    border: 1px solid white;
+    color: white;
+    width: 53px;
+    height: 39px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+#go_chat:hover{
+    cursor: pointer;
+    text-shadow: 0 0 3px snow, 0 0 3px snow, 0 0 3px snow, 0 0 3px snow;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*编辑*/
+#mcsDiv{
+    width: 600px;
+    height: 400px;
+    border: 1.5px solid black;
+
+}
+#mcs_tit{
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#mcsForm{
+    margin-top: 50px;
+    margin-left: 40px;
+
+}
+.mcsIpt{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

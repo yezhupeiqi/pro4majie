@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>未支付</title>
+    <link rel="stylesheet" href="./view/css/nopay.css" type="text/css">
+    <script src="./view/js/angular.js"></script>
+</head>
+<body ng-app="myApp">
+<h2>未支付订单</h2>
+<div id="mcsDiv" ng-controller="myCtrl" style="border:none;">
+    <p id="mcsP">
+        <span style="margin-left: 8px" class="mcsTh">订单号</span>
+        <span style="margin-left: 55px" class="mcsTh">订单会员</span>
+        <span style="margin-left: 20px" class="mcsTh">价格</span>
+        <span style="margin-left: 25px" class="mcsTh">状态</span>
+        <span style="margin-left: 50px" class="mcsTh">下单时间</span>
+        <span style="margin-left: 130px" class="mcsTh">操作</span>
+    </p>
+    <table class='mcsTab' ng-repeat="x in othArr">
+        <tr class='mcsTr'>
+            <td class='td_id'>{{x.orderid}}</td>
+            <td class='td_name'>{{x.u_id}}</td>
+            <td class='td_pri'>￥{{x.price}}</td>
+            <td class='td_all'>{{x.status}}</td>
+            <td class='td_ves'>{{x.ordertime}}</td>
+            <td class='td_zuo'>
+                <input type="button" value="查看" id="+{{x.orderid}}+" onclick="selDetails()">
+            </td>
+        </tr>
+    </table>
+    <p id="page">
+        <span class="pageBtn">共{{page.allPage}}页,当前页{{page.nowPage}}/{{page.allPage}}页</span>
+        <span ng-click="changePage(1)"  class="pageBtn">[首页]</span>
+        <span ng-click="changePage(page.last)"  class="pageBtn">上一页</span>
+        <span ng-repeat="x in pageNum" ng-click="changePage(x)"  class="pageBtn">[{{x}}]</span>
+        <span ng-click="changePage(page.next)"  class="pageBtn">下一页</span>
+        <span ng-click="changePage(page.allPage)"  class="pageBtn">[尾页]</span>
+    </p>
+</div>
+<div id="details" style="display: none">
+    <p class="deta_p">
+        <span>用户ID：</span>
+        <span id="userid" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>昵称：</span>
+        <span id="nickname" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>性别：</span>
+        <span id="sex" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>收货地址：</span>
+        <span id="addess" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>商品名：</span>
+        <span id="mcsname" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>订单时间：</span>
+        <span id="ordertime" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>购买类型：</span>
+        <span id="payType" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>商品类型：</span>
+        <span id="mcsType" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>商品状态：</span>
+        <span id="mcsState" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>商品图片：</span>
+        <span id="mcsImg" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+        <span>商品价格：￥</span>
+        <span id="mcsPrice" class="titColr"></span>
+    </p>
+    <p class="deta_p">
+       <input type="button" value="返回" onclick="canenl()">
+    </p>
+</div>
+</body>
+<script src="./view/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+<script>
+    var app=angular.module('myApp',[]);
+    app.controller('myCtrl',function ($scope,$http) {
+        //显示订单
+        $http({
+            mothod:"get",
+            url:"./index.php?a=nonpay&c=showOrder"
+        }).then(function success(res) {
+            $scope.othArr=res.data[0];
+            $scope.page=res.data[1];
+            $scope.pageNum=res.data[1].pageNum;
+            $scope.changePage=function (num) {
+                $http({
+                    mothod:"get",
+                    url:"./index.php?a=nonpay&c=showOrder&nowPage="+num
+                }).then(function success(res) {
+                    $scope.othArr=res.data[0];
+                    $scope.page=res.data[1];
+                    $scope.pageNum=res.data[1].pageNum;
+
+                },function error(res) {
+                    console.log(res,1);
+                });
+            }
+        },function error(res) {
+            console.log(res,1);
+        });
+    });
+function selDetails() {
+    var orderid=$(event.target).attr('id');
+    $.ajax({
+        type: "post",      //请求方式 
+        url: "./index.php?a=nonpay&c=checkTail",  //发送请求的地址
+        data: 'id='+orderid,       //类型
+        dataType:"json",        //规定返回值的类型
+        success: function(res) {//成功后的回调函数
+            $('#details').css('display','block');
+            $('#mcsDiv').css('display','none');
+            $('#userid').html(res[0].u_id);
+            $('#nickname').html(res[0].nickname);
+            $('#sex').html(res[0].sex);
+            $('#addess').html(res[0].address);
+            $('#mcsname').html(res[0].mcsname);
+            $('#ordertime').html(res[0].ordertime);
+            $('#payType').html(res[0].publishType);
+            $('#mcsType').html(res[0].t_name);
+            $('#mcsState').html(res[0].status);
+            var img=$("<img src='"+res[0].mcsimg+"' style='width:300px;height: 300px'>");
+            $('#mcsImg').html(img);
+            $('#mcsPrice').html(res[0].price);
+        },
+        error: function(res) {  //失败时调用此函数。
+            console.log(res);
+        }
+    });
+}
+function canenl() {
+    $('#details').css('display','none');
+    $('#mcsDiv').css('display','block')
+}
+</script>
+</html>

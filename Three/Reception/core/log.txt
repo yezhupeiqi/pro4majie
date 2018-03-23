@@ -1,0 +1,1419 @@
+2018-02-17 18:45:14  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-17 18:46:32  select COUNT(*) as allCount from goods WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-17 18:47:22  select COUNT(*) as allCount from goods WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-17 18:48:53  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-17 18:49:20  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-17 18:49:20  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-17 18:49:48  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-17 18:49:48  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:25:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:25:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:25:26  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:25:26  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:25:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:25:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:26:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:26:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:29:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:29:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:29:40  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:29:40  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:29:40  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:29:40  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:29:57  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:29:57  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:30:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:30:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:30:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:30:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:32:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:32:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:33:57  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:33:57  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:34:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:34:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:34:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:34:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:34:48  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:34:48  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:34:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:34:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:36:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:36:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:36:03  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:36:03  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:38:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:38:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:38:37  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:38:37  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:38:54  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:38:54  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:07  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:07  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:08  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:08  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:39:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:39:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:47:40  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:47:40  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:47:40  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 01:49:38  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:49:38  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:49:38  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 01:55:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 01:55:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 01:55:58  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 02:03:17  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:03:17  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:03:17  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 02:16:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:16:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:16:46  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 02:18:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:18:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:18:36  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 02:19:06  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:19:07  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:19:07  select a.u_id,b.s_mcsidname from t_order a join s_merchandise b WHERE a.m_id = b.s_mcsid ORDER BY a.orderid DESC limit 6
+2018-02-18 02:22:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:22:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:29:28  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:29:28  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:30:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:30:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:48:52  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:48:52  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:49:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:49:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 02:49:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 02:49:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:00:37  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:00:38  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:00:54  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:00:54  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:00:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:00:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:01:13  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:01:13  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:01:28  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:01:28  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:01:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:01:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:02:50  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:02:50  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:03:10  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:03:10  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:06:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:06:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:06:26  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:06:26  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:07:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:07:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:07:37  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:07:37  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:07:39  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:07:39  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:07:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:07:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:09:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:09:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:09:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:09:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:09:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:09:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:09:43  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:09:43  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:10:29  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:10:29  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:12:27  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:12:27  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-18 21:17:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-18 21:17:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:24:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:24:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:17  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:17  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:17  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:17  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:27  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:27  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:25:45  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-19 21:25:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:25:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:39:53  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:39:53  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:39:57  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:39:57  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:39:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:39:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:40:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:40:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:41:27  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:41:27  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:41:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:41:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:41:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:41:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:42:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:42:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:45:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:45:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:45:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:45:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:45:48  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:45:48  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:46:14  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:46:14  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:48:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:48:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:48:16  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:48:16  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:49:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:49:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:50:16  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:50:16  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:50:17  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:50:17  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:51:08  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:51:08  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:52:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:52:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:53:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:53:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:53:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:53:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:53:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:53:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:53:51  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:53:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:56:27  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:56:27  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:56:29  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:56:29  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 21:59:27  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 21:59:27  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:00:57  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:00:57  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:01:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:01:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:01:04  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:01:04  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:10:11  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:10:11  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:12:34  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:12:34  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:12:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:12:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:13:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:13:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:14:06  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:14:06  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:14:07  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:14:07  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:14:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:14:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:15:55  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:15:55  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:15:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:15:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:15:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:15:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:16:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:16:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:17:42  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:17:42  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:17:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:17:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:17:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:17:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:17:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:17:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:01  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:01  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:04  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:04  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:48  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:48  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:18:51  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:18:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:19:04  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:19:04  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:19:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:19:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:19:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:19:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:19:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:19:06  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:26:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:26:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:26:26  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:26:26  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:28:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:28:21  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:21  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-19 22:28:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-19 22:28:39  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:39  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+2018-02-19 22:28:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-19 22:28:43  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:43  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-19 22:28:43  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:28:43  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-19 22:29:03  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:29:03  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-19 22:30:20  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:20  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:30:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-19 22:30:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-19 22:30:56  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:56  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-19 22:30:57  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:57  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+2018-02-19 22:30:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-19 22:30:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:30:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-19 22:31:01  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:31:01  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-19 22:31:10  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:31:10  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:31:11  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:31:11  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-19 22:31:12  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:31:12  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-19 22:32:12  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:12  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-19 22:32:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-19 22:32:16  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:16  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-19 22:32:17  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:17  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+2018-02-19 22:32:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-19 22:32:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-19 22:32:20  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:20  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-19 22:32:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-19 22:32:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-22 16:16:37  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:37  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:16:42  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:42  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-22 16:16:43  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:43  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-22 16:16:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+2018-02-22 16:16:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-22 16:16:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-22 16:16:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-22 16:16:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-22 16:16:51  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-22 16:16:52  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:52  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-22 16:16:54  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:54  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+2018-02-22 16:16:55  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:55  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 24,4
+2018-02-22 16:16:56  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:56  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 20,4
+2018-02-22 16:16:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:16:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+2018-02-22 16:17:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:17:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:33:42  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-22 16:33:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:33:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:35:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:35:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:35:24  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:35:24  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:35:53  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:35:53  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:35:56  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:35:56  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-22 16:35:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:35:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-22 16:36:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:36:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-22 16:43:07  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-22 16:43:07  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:16:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:16:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:18:13  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:18:13  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:18:13  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:18:21  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:18:21  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:18:21  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:18:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:18:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:18:23  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:18:39  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:18:39  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:18:39  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:21:01  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:21:01  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:21:01  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:21:11  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:21:11  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:21:11  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:23:39  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:23:39  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:23:39  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:27:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:27:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:27:15  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:27:18  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:27:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:27:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:28:03  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:28:03  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:28:03  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:28:51  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+2018-02-23 14:28:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:28:55  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:28:55  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:28:55  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:29:25  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:29:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:29:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:29:38  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:29:38  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:29:38  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:29:42  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:29:42  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:29:42  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:30:13  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:30:13  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:30:13  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:33:09  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:33:09  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:33:09  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:35:42  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:35:42  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:35:42  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:35:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:35:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:35:59  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:37:48  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:37:48  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:37:48  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:37:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:37:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:37:49  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:39:24  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:39:24  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:39:24  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:40:30  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:40:31  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:40:31  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:40:32  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:40:32  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:40:32  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:41:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:41:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:41:25  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:41:39  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:41:39  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:41:39  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:41:52  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:41:52  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:41:52  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:23  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:24  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:24  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+blishType = '普通' limit 0,4
+2018-02-23 14:42:34  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:34  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:34  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:34  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:34  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:34  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:36  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:36  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:36  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:46  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:47  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:42:49  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:50  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:42:50  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:42:50  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:04  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:43:04  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:43:04  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:43:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:05  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:43:06  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:43:06  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:43:06  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:08  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+2018-02-23 14:43:08  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:09  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:43:09  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:43:09  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:46:47  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:46:47  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:46:47  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:46:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:46:59  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:46:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:47:18  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:47:18  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:47:40  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:47:40  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-23 14:47:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:47:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+2018-02-23 14:47:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:47:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-23 14:47:42  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:47:42  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+2018-02-23 14:50:40  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:50:40  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:50:40  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:51:45  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:51:45  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:51:45  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:53:41  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:53:41  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:53:41  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:53:49  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:53:49  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:53:49  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:54:15  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:54:15  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:54:15  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:54:19  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:54:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:54:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:54:20  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:54:20  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:54:20  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:57:12  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:57:12  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:57:12  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:57:55  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:57:55  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:57:55  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 14:58:13  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 14:58:13  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 14:58:13  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:01:20  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 15:01:20  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 15:01:20  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:03:02  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 15:03:02  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 15:03:02  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:13:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 15:13:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 15:13:58  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:14:48  select * from Array WHERE 1=1 
+2018-02-23 15:17:33  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 15:17:33  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 15:17:33  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:17:34  select * from Array WHERE 1=1 
+2018-02-23 15:18:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '6'
+2018-02-23 15:19:16  select * from s_merchandise WHERE 1=1 and s_mcsid = '6'
+2018-02-23 15:19:18  select * from s_merchandise WHERE 1=1 and s_mcsid = '6'
+2018-02-23 15:19:44  select * from s_merchandise WHERE 1=1 and s_mcsid = '6'
+2018-02-23 15:19:53  select * from s_merchandise WHERE 1=1 and s_mcsid = '3'
+2018-02-23 15:20:24  select * from s_merchandise WHERE 1=1 and s_mcsid = '3'
+2018-02-23 15:21:03  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 15:21:03  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 15:21:03  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 15:21:07  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:22:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:22:29  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:23:34  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:23:35  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:24:37  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:26:05  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:26:06  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:26:07  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:26:37  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:26:47  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:27:27  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:27:51  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:27:55  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:28:03  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:28:12  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:30:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:30:32  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:30:33  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:31:15  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:31:40  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:32:01  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:32:22  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 15:32:56  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:24:39  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:27:55  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:29:08  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:30:40  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:31:01  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:32:00  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:32:13  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:32:51  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:33:30  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:33:51  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:33:52  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:34:00  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:36:20  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:36:24  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:36:36  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:36:49  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:37:19  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:44:53  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:44:59  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:45:01  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:45:01  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:45:01  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:45:05  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:45:08  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:45:08  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:45:08  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:45:09  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:48:33  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 16:54:25  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:54:25  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:54:25  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:56:58  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:56:58  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:56:58  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:57:44  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:57:44  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:57:44  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:57:52  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:57:52  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:57:52  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:57:52  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 16:57:52  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:57:52  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 16:57:59  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 16:58:00  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 16:58:00  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:00:19  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:00:19  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:00:19  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:00:22  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 17:00:23  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:00:23  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:00:23  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:00:28  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:00:28  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:00:28  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:02:53  select COUNT(*) as allCount from t_user WHERE 1=1 
+2018-02-23 17:02:53  insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10006','10000','202cb962ac59075b964b07152d234b70','2018-02-23 17:02:53','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+2018-02-23 17:03:03  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:03:03  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:03:03  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:03:04  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:03:09  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 17:03:10  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:06:30  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:06:32  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:06:33  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:06:33  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:06:33  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:08:51  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:08:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:08:55  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:08:55  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:08:55  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:08:56  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 17:08:59  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 17:08:59  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:09:01  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 17:09:19  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 17:09:22  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+2018-02-23 17:09:22  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 17:09:24  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:09:28  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 17:09:36  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 17:09:37  select * from s_merchandise WHERE 1=1 and s_mcsid = '2'
+2018-02-23 19:34:57  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:35:30  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:37:46  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:37:47  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:37:49  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:39:05  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:40:05  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:40:35  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:41:43  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:41:44  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:42:18  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:48:47  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:52:16  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:53:34  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:53:39  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:53:41  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:53:55  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:54:55  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:55:02  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:55:42  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:55:54  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:56:34  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:56:35  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:56:52  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:57:11  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:57:20  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:57:27  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:58:32  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:58:34  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:58:51  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 19:59:14  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:03:24  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:03:30  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:04:21  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:11:12  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:14:44  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:14:52  update t_user set balance='1000'where 1=1 and userid='10001'
+2018-02-23 20:14:59  update t_user set balance='1000'where 1=1 and userid='10001'
+2018-02-23 20:17:39  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:17:40  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:17:51  update t_user set balance='1000100'where 1=1 and userid='10001'
+2018-02-23 20:18:45  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:18:57  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:19:06  update t_user set balance='100'where 1=1 and userid='10001'
+2018-02-23 20:19:10  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:19:19  update t_user set balance='200'where 1=1 and userid='10001'
+2018-02-23 20:19:32  update t_user set balance='10100'where 1=1 and userid='10001'
+2018-02-23 20:19:35  update t_user set balance='10100'where 1=1 and userid='10001'
+2018-02-23 20:19:37  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:19:38  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:20:41  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:20:53  update t_user set balance='10200'where 1=1 and userid='10001'
+2018-02-23 20:21:00  update t_user set balance='10400'where 1=1 and userid='10001'
+2018-02-23 20:21:12  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:21:27  update t_user set balance='10600'where 1=1 and userid='10001'
+2018-02-23 20:21:35  update t_user set balance='11000'where 1=1 and userid='10001'
+2018-02-23 20:21:38  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:22:26  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:22:36  update t_user set balance='11100'where 1=1 and userid='10001'
+2018-02-23 20:22:37  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:22:50  update t_user set balance='11900'where 1=1 and userid='10001'
+2018-02-23 20:22:51  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:23:04  update t_user set balance='12000'where 1=1 and userid='10001'
+2018-02-23 20:23:05  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:23:21  select * from t_user WHERE 1=1 and userid = '10001'
+2018-02-23 20:23:29  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-23 20:23:29  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-23 20:23:29  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-23 20:23:30  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:25:13  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:25:17  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:25:33  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:26:20  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:30:10  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:33:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:34:29  select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 20:34:30  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:40:49  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:52:53  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:54:27  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:55:21  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:56:43  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:56:44  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:57:34  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:57:36  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:58:35  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:58:37  select balance from t_user WHERE userid = 10001 and <=balance
+2018-02-23 20:59:06  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 20:59:07  select balance from t_user WHERE userid = 10001 and <=balance
+2018-02-23 20:59:09  select balance from t_user WHERE userid = 10001 and <=balance
+2018-02-23 20:59:09  select balance from t_user WHERE userid = 10001 and <=balance
+2018-02-23 21:00:04  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:00:07  select balance from t_user WHERE userid = 10001 and <=balance
+2018-02-23 21:01:00  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:01:01  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:01:08  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:01:09  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:01:23  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:01:26  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:02:00  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:02:02  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:02:05  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:03:33  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:03:36  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:04:47  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:04:47  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:21:12  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:21:27  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:21:30  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:21:45  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:21:46  select balance from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:22:22  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:22:23  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:24:41  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:26:08  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:26:26  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:27:53  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:27:57  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:30:29  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:30:31  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:30:56  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:46:03  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:46:05  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:46:05  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:46:05')
+2018-02-23 21:46:05  update t_user set balance='762'where 1=1 and userid='10001'
+2018-02-23 21:46:09  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:46:09  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:46:09')
+2018-02-23 21:46:10  update t_user set balance='524'where 1=1 and userid='10001'
+2018-02-23 21:46:11  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:46:11  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:46:11')
+2018-02-23 21:46:12  update t_user set balance='286'where 1=1 and userid='10001'
+2018-02-23 21:46:41  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:46:42  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:46:42  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:46:42')
+2018-02-23 21:46:42  update t_user set balance='48'where 1=1 and userid='10001'
+2018-02-23 21:47:40  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:47:42  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:48:04  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:48:06  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:48:08  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:48:10  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:48:23  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:48:24  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:48:24  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:48:24')
+2018-02-23 21:48:25  update t_user set balance='9762'where 1=1 and userid='10001'
+2018-02-23 21:50:27  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:50:28  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:50:28  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:50:28')
+2018-02-23 21:50:28  update t_user set balance='9524'where 1=1 and userid='10001'
+2018-02-23 21:51:14  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:51:14  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:51:14')
+2018-02-23 21:51:15  update t_user set balance='9286'where 1=1 and userid='10001'
+2018-02-23 21:51:32  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:51:34  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:51:35  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:51:34')
+2018-02-23 21:51:35  update t_user set balance='9048'where 1=1 and userid='10001'
+2018-02-23 21:52:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:52:12  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:52:12  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:52:12')
+2018-02-23 21:52:13  update t_user set balance='8810'where 1=1 and userid='10001'
+2018-02-23 21:52:25  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:52:27  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:52:27  insert into t_order(u_id,m_id,mcsimg,mcsname,price,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','已支付','2018-02-23 21:52:27')
+2018-02-23 21:52:27  update t_user set balance='8572'where 1=1 and userid='10001'
+2018-02-23 21:55:12  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:55:14  select balance AS money from t_user WHERE userid = 10001 and 238 <= balance
+2018-02-23 21:55:14  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10001','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','238','已支付','2018-02-23 21:55:14')
+2018-02-23 21:55:15  update t_user set balance='8334'where 1=1 and userid='10001'
+2018-02-23 21:56:18  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:56:26  select * from t_user WHERE 1=1 and userid = '10002'and userpsd = '202cb962ac59075b964b07152d234b70'
+2018-02-23 21:56:27  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 21:56:29  select balance AS money from t_user WHERE userid = 10002 and 238 <= balance
+2018-02-23 21:56:29  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','238','未支付','2018-02-23 21:56:29')
+2018-02-23 21:57:55  select balance AS money from t_user WHERE userid = 10002 and 476 <= balance
+2018-02-23 21:57:55  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','476','未支付','2018-02-23 21:57:55')
+2018-02-23 22:00:01  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:00:08  select balance AS money from t_user WHERE userid = 10002 and 2618 <= balance
+2018-02-23 22:00:08  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','2618','未支付','2018-02-23 22:00:08')
+2018-02-23 22:03:06  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:03:29  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:03:35  select balance AS money from t_user WHERE userid = 10002 and 2618 <= balance
+2018-02-23 22:03:35  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','2618','已支付','2018-02-23 22:03:35')
+2018-02-23 22:03:36  update t_user set balance='2382'where 1=1 and userid='10002'
+2018-02-23 22:03:36  update s_merchandise set s_surplus='100'where 1=1 and s_mcsid='1'
+2018-02-23 22:03:39  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:04:06  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:04:10  select balance AS money from t_user WHERE userid = 10002 and 2380 <= balance
+2018-02-23 22:04:10  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','2380','已支付','2018-02-23 22:04:10')
+2018-02-23 22:04:10  update t_user set balance='2'where 1=1 and userid='10002'
+2018-02-23 22:04:10  update s_merchandise set s_surplus='90'where 1=1 and s_mcsid='1'
+2018-02-23 22:04:11  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-23 22:04:16  select balance AS money from t_user WHERE userid = 10002 and 238 <= balance
+2018-02-23 22:04:17  insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10002','1','view/img/man1.jpg','连帽棉衣女中长款韩版羽绒服','238','未支付','2018-02-23 22:04:16')
+2018-02-23 22:04:19  select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+2018-02-24 04:32:11  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:11  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:26  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:26  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:26  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:29  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:29  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:29  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:29  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:29  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:34  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:34  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:34  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:35  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:35  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:35  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:46  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:46  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:46  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:32:51  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:32:51  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:32:51  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:33:08  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:33:08  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:33:08  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:34:31  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:34:31  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:34:31  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+2018-02-24 04:35:05  select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+2018-02-24 04:35:05  select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+2018-02-24 04:35:05  select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '9'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select * from t_user WHERE 1=1 and userid = '10001'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from t_user WHERE 1=1 and userid = '10001'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+blishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select balance AS money from t_user WHERE userid = 10001 and 330 <= balance
+insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10001','35','../backStage/view/images/watch03_max.png','冠琴商务全自动机械表','330','未支付','2018-02-24 14:28:53')
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select balance AS money from t_user WHERE userid = 10001 and 330 <= balance
+insert into t_order(u_id,m_id,mcsimg,mcsname,price,status,ordertime)values('10001','35','../backStage/view/images/watch03_max.png','冠琴商务全自动机械表','330','未支付','2018-02-24 14:29:50')
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '35'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from s_merchandise WHERE 1=1 and s_mcsid = '1'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10007','10000','202cb962ac59075b964b07152d234b70','2018-03-21 06:32:53','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10008','10000','202cb962ac59075b964b07152d234b70','2018-03-21 06:33:02','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10009','10000','202cb962ac59075b964b07152d234b70','2018-03-21 06:33:05','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 4,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 8,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 12,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 16,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from t_user WHERE 1=1 and userid = '10001'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('100010','10000','202cb962ac59075b964b07152d234b70','2018-03-21 06:38:35','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10007','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:31:46','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10008','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:32:23','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10009','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:32:34','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10007','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:33:27','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10008','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:33:39','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10009','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:35:58','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10007','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:42:50','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select * from t_user WHERE 1=1 and userid = '10001'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10008','10000','202cb962ac59075b964b07152d234b70','2018-03-21 08:47:08','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select * from t_user WHERE 1=1 and userid = '10001'and userpsd = '202cb962ac59075b964b07152d234b70'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select * from t_user WHERE 1=1 and userid = '10001'
+select * from t_user WHERE 1=1 and userid = '10001'
+select * from t_user WHERE 1=1 and userid = '10001'
+select * from t_user WHERE 1=1 and userid = '10001'
+select * from t_user WHERE 1=1 and userid = '10001'
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+csState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from t_user WHERE 1=1 
+insert into t_user(userid,nickname,userpsd,registime,headimg,balance,payPsd,state)values('10009','10000','202cb962ac59075b964b07152d234b70','2018-03-23 01:16:40','./view/img/headImg1.jpg','0','202cb962ac59075b964b07152d234b70','使用')
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6
+select COUNT(*) as allCount from s_merchandise WHERE 1=1 and s_mcsState = '上架'and s_publishType = '普通'
+select * from s_merchandise WHERE s_mcsState = '上架' and s_publishType = '普通' limit 0,4
+select u_id,mcsname from t_order ORDER  BY orderid DESC limit 6

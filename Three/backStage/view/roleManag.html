@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>角色管理</title>
+    <link rel="stylesheet" href="./view/css/role.css" type="text/css">
+    <link rel="stylesheet" href="./view/css/zTreeStyle/zTreeStyle.css">
+</head>
+
+<body>
+<h2>角色管理</h2>
+<br/>
+<p>
+    <input type="button" value="✙添加" id="addRole">
+</p>
+<br/>
+<div id="showSole"></div>
+<br/>
+<div>
+    <form method="post" action="" id="form" style="display: none">
+        <table class="table_min">
+            <tr>
+                <th class="t_td">角色ID</th>
+                <th class="t_td">角色名称</th>
+                <th class="t_td">角色描述</th>
+                <th class="t_td">操作</th>
+            </tr>
+            <tr>
+                <td class="t_td">自动生成</td>
+                <td class="t_td">
+                    <input type="text" name="r_name" class="ipt_tx">
+                </td>
+                <td class="t_td">
+                    <input type="text" name="ribe" class="ipt_tx">
+                </td>
+                <td class="t_td">
+                    <span id="add" class='operation'>添加</span>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+<br/>
+<div id="showM"></div>
+<br/>
+<div>
+    <ul class="ztree" id="treeDemo"></ul>
+</div>
+
+</body>
+<script src="./view/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+<script src="./view/js/tree/jquery.ztree.core.js"></script>
+<script src="./view/js/tree/jquery.ztree.excheck.js"></script>
+<script>
+    //权限管理菜单
+    var setting={
+        check:{
+            enable: true,
+            autoCheckTrigger: true
+        },
+        data:{
+            simpleData: {
+                enable: true
+            }
+        }
+    };
+    //数据
+    var permissions=[{id:0,name:'总权限',pId:0,open:true}];
+    $.ajax({
+        type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+        url: "./index.php?a=roleManag&c=getMenu",  //发送请求的地址
+        dataType:"json",        //规定返回值的类型
+        success: function(res) {//请求成功后的回调函数
+            for(var i= 0;i<res.length;i++){
+                var newArr={id:res[i].a_id,name:res[i].a_name,pId:res[i].fid,open:true};
+                permissions.push(newArr);
+            }
+        },
+        error: function(res) {  //请求失败时调用此函数。
+            alert("error");
+        }
+    });
+
+
+    //显示数据
+    $.ajax({
+        type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+        url: "./index.php?a=roleManag&c=soleLimt",  //发送请求的地址
+        dataType:"json",        //规定返回值的类型
+        success: function(res) {//请求成功后的回调函数
+            var $div=$('#showSole');
+            $div.empty();
+            var $table=$("<table class='table'></table>");
+            var $th=$("<tr><td class='t_td'>角色ID</td><td class='t_td'>角色名称</td><td class='t_td'>角色描述</td><td class='t_td'>操作</td></tr>");
+            $table.append($th);
+            for(var i=0;i<res.length;i++){
+                var $tr=$("<tr></tr>");
+                var $td1=$("<td class='t_td'>"+res[i].r_id+"</td>");
+                var $td2=$("<td class='t_td'>"+res[i].r_name+"</td>");
+                var $td3=$("<td class='t_td'>"+res[i].ribe+"</td>");
+                var $td4=$("<td class='t_td'></td>");
+                var $span1=$("<span class='operation' id='"+res[i].r_id+"' onclick='modify()'>修改</span>");
+                var $span2=$("<span class='operation' id='"+res[i].r_id+"' onclick='deleteRole()'>删除</span>");
+                var $span3=$("<span class='operation' id='"+res[i].r_id+"' onclick='showR()'>权限管理</span>");
+                $td4.append($span1,$span2,$span3);
+                $tr.append($td1,$td2,$td3,$td4);
+                $table.append($tr);
+            }
+            $div.append($table);
+        },
+        error: function(res) {  //请求失败时调用此函数。
+            alert("error");
+        }
+    });
+
+    $('#addRole').click(function () {
+        $('#form').toggle(500);
+    });
+    //添加
+    $('#add').click(function () {
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=roleManag&c=addRole",  //发送请求的地址
+            data:  $('#form').serialize(),       //类型：String,发送到服务器的数据
+            dataType:"text",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                if(res == 'yes'){
+                    alert('添加成功！');
+                    window.location.reload();
+                }
+                else if(res == 'no'){
+                    alert('添加失败！');
+                }
+                else if(res == '0'){
+                    alert('添加失败,信息不能为空！');
+                }
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    });
+    //修改
+    function modify() {
+        var id=$(event.target).attr('id');
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=roleManag&c=showModify",  //发送请求的地址
+            data:  'id='+id,       //类型：String,发送到服务器的数据
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var $div=$('#showM');
+                $div.empty();
+                var $table=$("<table class='table_min'></table>");
+                var $th=$("<tr><td class='t_td'>角色名称</td><td class='t_td'>操作</td><td class='t_td'>角色描述</td><td class='t_td'>操作</td></tr>");
+                $table.append($th);
+                for(var i=0;i<res.length;i++){
+                    var $tr=$("<tr></tr>");
+                    var $td1=$("<td class='t_td' id='name'>"+res[i].r_name+"</td>");
+                    var $td2=$("<td class='t_td'><span class='operation' id='"+res[i].r_id+"' onclick='rolename()'>修改</span></td>");
+                    var $td3=$("<td class='t_td' id='content'>"+res[i].ribe+"</td>");
+                    var $td4=$("<td class='t_td'><span class='operation' id='"+res[i].r_id+"' onclick='describe()'>修改</span></td>");
+                }
+                $tr.append($td1,$td2,$td3,$td4);
+                $table.append($tr);
+                $div.append($table);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    }
+    //修改角色名称
+    function rolename() {
+        var r_id=$(event.target).attr('id');
+        var name=prompt('请输入要修改名称！');
+        if(name != '' && name != null){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=roleManag&c=modName",  //发送请求的地址
+                data:  'r_name='+name+'&id='+r_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('修改成功！');
+                        $('#name').html(name);
+                        window.location.reload();
+                    }
+                    else if(res == 'no'){
+                        alert('修改失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+
+        }
+        else {
+            alert('要修改的内容不能为空');
+        }
+    }
+    //修改角色描述
+    function describe() {
+        var r_id=$(event.target).attr('id');
+        var data=prompt('请输入要修改描述！');
+        if(data != ''  && data != null){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=roleManag&c=modRibe",  //发送请求的地址
+                data:  'ribe='+data+'&id='+r_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('修改成功！');
+                        $('#content').html(data);
+                        window.location.reload();
+                    }
+                    else {
+                        alert('修改失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+        else {
+            alert('要修改的内容不能为空');
+        }
+    }
+    //删除角色
+    function deleteRole() {
+        var r_id=$(event.target).attr('id');
+        var re=confirm('是否删除该员工！');
+        if(re){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=roleManag&c=deletRole",  //发送请求的地址
+                data:  'id='+r_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('删除成功！');
+                        window.location.reload();
+                    }
+                    else {
+                        alert('由于该职位已存在，所以删除失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+    }
+    //权限管理
+    function showR() {
+        var r_id=$(event.target).attr('id');
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=roleManag&c=getRole",  //发送请求的地址
+            data:  'id='+r_id,       //类型：String,发送到服务器的数据
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var zTree=$.fn.zTree.init($('#treeDemo'),setting,permissions);
+                if(res != null){
+                    for(var i=0;i<res.length;i++){
+                        var node=zTree.getNodeByParam('id',res[i]['m_id']);
+                        zTree.checkNode(node);
+                    }
+                }
+                var $div=$('#treeDemo');
+                var $input="<input type='button' value='修改' id='"+r_id+"' onclick='savePer()'>";
+                $div.append($input);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    }
+    //保存权限
+    function savePer() {
+        var r_id=$(event.target).attr('id');
+        var re=confirm('是否修改该员工的权限！');
+        if(re){
+            var zTree=$.fn.zTree.getZTreeObj('treeDemo');
+            var nodes=zTree.getCheckedNodes(true);
+
+            var arr=[];
+            for (var i=0;i<nodes.length;i++){
+                if(nodes[i].id !=0){
+                    arr.push(nodes[i].id);
+                }
+            }
+            var roleArr=JSON.stringify(arr);
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=roleManag&c=modPerm",  //发送请求的地址
+                data:  'id='+r_id+'&arr='+roleArr,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == 1){
+                        alert('修改成功！');
+                    }
+                    else {
+                        alert('修改失败！');
+                    }
+
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+
+
+
+
+
+    }
+
+
+
+
+
+
+
+</script>
+</html>

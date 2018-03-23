@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac8692ae-216a-413e-820e-940311b4efbb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Factory.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/Factory.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cutomerbox.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/cutomerbox.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" column="88" lean-forward="false" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cutomerbox.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/view/js/cutomerbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="44" column="54" lean-forward="false" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+              <folding>
+                <element signature="n#!!block;n#getCookie#0" expanded="false" />
+                <element signature="e#1368#6376#0" expanded="false" />
+                <marker date="1517549757200" expanded="true" signature="2669:2680" ph="..." />
+                <marker date="1517549757200" expanded="true" signature="2752:2763" ph="..." />
+                <marker date="1517549757200" expanded="true" signature="4536:4547" ph="..." />
+                <marker date="1517549757200" expanded="true" signature="4611:4622" ph="..." />
+                <marker date="1517549757200" expanded="true" signature="5533:5544" ph="..." />
+                <marker date="1517549757200" expanded="true" signature="5608:5619" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cutomerboxCon_class.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/control/cutomerboxCon_class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="6211" column="76" lean-forward="false" selection-start-line="6211" selection-start-column="70" selection-end-line="6211" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>head_img</find>
+      <find>logon</find>
+      <find>table_min</find>
+      <find>changUrl</find>
+      <find>maxTab</find>
+      <find>thBox</find>
+      <find>mcsDiv</find>
+      <find>content</find>
+      <find>f_menu</find>
+      <find>text</find>
+      <find>menu</find>
+      <find>addS</find>
+      <find>logo06.png</find>
+      <find>stroe_xin</find>
+      <find>store_name</find>
+      <find>chat</find>
+      <find>chat_icon</find>
+      <find>chat_input</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/view/01.html" />
+        <option value="$PROJECT_DIR$/view/css/employManag.css" />
+        <option value="$PROJECT_DIR$/public/Page_class.php" />
+        <option value="$PROJECT_DIR$/core/Modle_class.php" />
+        <option value="$PROJECT_DIR$/view/employManag.php" />
+        <option value="$PROJECT_DIR$/../index/lianxi.php" />
+        <option value="$PROJECT_DIR$/control/goodsentryCon_class.php" />
+        <option value="$PROJECT_DIR$/log.txt" />
+        <option value="$PROJECT_DIR$/control/employManagCon_class.php" />
+        <option value="$PROJECT_DIR$/model/employModel_class.php" />
+        <option value="$PROJECT_DIR$/view/css/mcsinform.css" />
+        <option value="$PROJECT_DIR$/view/homepage.html" />
+        <option value="$PROJECT_DIR$/view/css/homepage.css" />
+        <option value="$PROJECT_DIR$/view/js/MarketingStat.js" />
+        <option value="$PROJECT_DIR$/view/js/UserStat.js" />
+        <option value="$PROJECT_DIR$/view/userStat.php" />
+        <option value="$PROJECT_DIR$/control/userMarketCon_class.php" />
+        <option value="$PROJECT_DIR$/view/MarketingStat.php" />
+        <option value="$PROJECT_DIR$/control/nonpayCon_class.php" />
+        <option value="$PROJECT_DIR$/view/nonpay.html" />
+        <option value="$PROJECT_DIR$/view/css/nopay.css" />
+        <option value="$PROJECT_DIR$/view/css/havepay.css" />
+        <option value="$PROJECT_DIR$/control/havepayCon_class.php" />
+        <option value="$PROJECT_DIR$/view/mcsinform.php" />
+        <option value="$PROJECT_DIR$/model/informModel_class.php" />
+        <option value="$PROJECT_DIR$/view/momodDetails.php" />
+        <option value="$PROJECT_DIR$/view/css/momodDetails.css" />
+        <option value="$PROJECT_DIR$/view/roleManag.html" />
+        <option value="$PROJECT_DIR$/view/ctsLogin.html" />
+        <option value="$PROJECT_DIR$/control/userManagCon_class.php" />
+        <option value="$PROJECT_DIR$/view/css/role.css" />
+        <option value="$PROJECT_DIR$/model/userMarketModel_class.php" />
+        <option value="$PROJECT_DIR$/model/havepayModel_class.php" />
+        <option value="$PROJECT_DIR$/view/havepay.html" />
+        <option value="$PROJECT_DIR$/model/nopayModel_class.php" />
+        <option value="$PROJECT_DIR$/../beforeProject/control/secondsKillCon_class.php" />
+        <option value="$PROJECT_DIR$/control/LoginCon_class.php" />
+        <option value="$PROJECT_DIR$/view/cutomerbox.html" />
+        <option value="$PROJECT_DIR$/view/css/cutomerbox.css" />
+        <option value="$PROJECT_DIR$/model/userModel_class.php" />
+        <option value="$PROJECT_DIR$/view/css/userMange.css" />
+        <option value="$PROJECT_DIR$/view/userManag.html" />
+        <option value="$PROJECT_DIR$/public/Database.class.php" />
+        <option value="$PROJECT_DIR$/core/Factory.php" />
+        <option value="D:/作业/第二阶段作业/电商秒杀平台项目/clinet/js/customerService.js" />
+        <option value="$PROJECT_DIR$/model/cutomerboxModel_class.php" />
+        <option value="$PROJECT_DIR$/control/cutomerboxCon_class.php" />
+        <option value="D:/作业/第二阶段作业/电商秒杀平台项目/sever/sever.js" />
+        <option value="$PROJECT_DIR$/../beforeProject/view/js/customerService.js" />
+        <option value="$PROJECT_DIR$/../sever/sever.js" />
+        <option value="$PROJECT_DIR$/view/js/cutomerbox.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="control" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="core" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="model" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mysql" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="lastProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lastProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="view" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sever/sever.js" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AppServ\www\T_CTS\view\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AppServ\www\lastProject\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac8692ae-216a-413e-820e-940311b4efbb" name="Default" comment="" />
+      <created>1515498160975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1515498160975</updated>
+      <workItem from="1515498162261" duration="10531000" />
+      <workItem from="1515563477079" duration="891000" />
+      <workItem from="1515567361548" duration="502000" />
+      <workItem from="1515567922457" duration="1551000" />
+      <workItem from="1515571185169" duration="1017000" />
+      <workItem from="1515584896367" duration="7347000" />
+      <workItem from="1515592775736" duration="599000" />
+      <workItem from="1515649815609" duration="5579000" />
+      <workItem from="1515669313425" duration="13942000" />
+      <workItem from="1515719409548" duration="866000" />
+      <workItem from="1515720738878" duration="1305000" />
+      <workItem from="1515736009315" duration="669000" />
+      <workItem from="1515739523116" duration="8453000" />
+      <workItem from="1515808869044" duration="15817000" />
+      <workItem from="1515893697082" duration="12593000" />
+      <workItem from="1515927115633" duration="668000" />
+      <workItem from="1515995474149" duration="3074000" />
+      <workItem from="1516016194843" duration="7298000" />
+      <workItem from="1516024329831" duration="269000" />
+      <workItem from="1516067151581" duration="2151000" />
+      <workItem from="1516082014657" duration="2175000" />
+      <workItem from="1516087112812" duration="4842000" />
+      <workItem from="1516101759834" duration="8204000" />
+      <workItem from="1516153687578" duration="6339000" />
+      <workItem from="1516168008210" duration="500000" />
+      <workItem from="1516168630245" duration="6453000" />
+      <workItem from="1516188952494" duration="1039000" />
+      <workItem from="1516191885321" duration="214000" />
+      <workItem from="1516192116888" duration="4157000" />
+      <workItem from="1516245177418" duration="7000" />
+      <workItem from="1516282321862" duration="2266000" />
+      <workItem from="1516322607083" duration="21796000" />
+      <workItem from="1516366787894" duration="3896000" />
+      <workItem from="1516412861360" duration="19984000" />
+      <workItem from="1516450321162" duration="7933000" />
+      <workItem from="1516501534748" duration="11015000" />
+      <workItem from="1516534968217" duration="9940000" />
+      <workItem from="1516581756591" duration="23824000" />
+      <workItem from="1516620576003" duration="9933000" />
+      <workItem from="1516668328823" duration="6522000" />
+      <workItem from="1516674901694" duration="17997000" />
+      <workItem from="1516709151449" duration="8650000" />
+      <workItem from="1516754641886" duration="23546000" />
+      <workItem from="1516792906240" duration="11664000" />
+      <workItem from="1516842100408" duration="21795000" />
+      <workItem from="1516880588202" duration="9673000" />
+      <workItem from="1516927882424" duration="9253000" />
+      <workItem from="1516974538009" duration="2505000" />
+      <workItem from="1517018803213" duration="6126000" />
+      <workItem from="1517140408942" duration="7207000" />
+      <workItem from="1517148127106" duration="1067000" />
+      <workItem from="1517189106008" duration="21000" />
+      <workItem from="1517211403422" duration="601000" />
+      <workItem from="1517213193231" duration="4015000" />
+      <workItem from="1517226461765" duration="6750000" />
+      <workItem from="1517273939287" duration="665000" />
+      <workItem from="1517276946517" duration="10949000" />
+      <workItem from="1517382704795" duration="680000" />
+      <workItem from="1517384688608" duration="395000" />
+      <workItem from="1517385733693" duration="4094000" />
+      <workItem from="1517399106430" duration="716000" />
+      <workItem from="1517405303307" duration="1121000" />
+      <workItem from="1517406436206" duration="6000" />
+      <workItem from="1517407467798" duration="1217000" />
+      <workItem from="1517409241096" duration="850000" />
+      <workItem from="1517446617226" duration="6964000" />
+      <workItem from="1517459090636" duration="2365000" />
+      <workItem from="1517464909595" duration="8222000" />
+      <workItem from="1517473639705" duration="2174000" />
+      <workItem from="1517485455985" duration="3586000" />
+      <workItem from="1517539314083" duration="382000" />
+      <workItem from="1517541333279" duration="912000" />
+      <workItem from="1517542756100" duration="5770000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="428099000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2585837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23497854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/view/userManag.html</url>
+          <line>208</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="18" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/view/css/mcsinform.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="92" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="92" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/nopay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="93" selection-start-column="0" selection-end-line="114" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/havepay.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="108" column="22" lean-forward="false" selection-start-line="108" selection-start-column="22" selection-end-line="108" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/mcsinformCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/informModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2850">
+          <caret line="95" column="28" lean-forward="false" selection-start-line="95" selection-start-column="28" selection-end-line="95" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/momodDetails.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/momodDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="83" lean-forward="false" selection-start-line="13" selection-start-column="83" selection-end-line="13" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/mcsinform.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="181" column="56" lean-forward="false" selection-start-line="181" selection-start-column="44" selection-end-line="181" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/LoginModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="422" column="22" lean-forward="false" selection-start-line="422" selection-start-column="22" selection-end-line="422" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/role.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/userStat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="53" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/userMarketCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/MarketingStat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/havepayCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/havepayModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="87" lean-forward="false" selection-start-line="14" selection-start-column="87" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/havepay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/nonpay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4320">
+          <caret line="144" column="23" lean-forward="false" selection-start-line="144" selection-start-column="23" selection-end-line="144" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/nopayModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/nonpayCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/control/customerCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/ctsLogin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/view/secondsKillpage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="791">
+          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="31" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/LoginCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="52" column="56" lean-forward="false" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/control/secondsKillCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="64" column="46" lean-forward="false" selection-start-line="64" selection-start-column="46" selection-end-line="64" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/view/js/secondsKillpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/homepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="24" column="48" lean-forward="false" selection-start-line="24" selection-start-column="45" selection-end-line="24" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/cutomerbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="137" column="30" lean-forward="false" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/roleManagCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/roleModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/roleManag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1814">
+          <caret line="144" column="4" lean-forward="true" selection-start-line="144" selection-start-column="4" selection-end-line="144" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/userMarketModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="96" lean-forward="false" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Database.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="43" column="14" lean-forward="false" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/userManag.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2370">
+          <caret line="208" column="0" lean-forward="false" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+          <folding>
+            <element signature="e#2003#3677#0" expanded="false" />
+            <element signature="e#3720#4499#0" expanded="false" />
+            <element signature="e#4548#5320#0" expanded="false" />
+            <element signature="e#5362#6197#0" expanded="false" />
+            <element signature="e#6238#8246#0" expanded="false" />
+            <element signature="e#8282#9240#0" expanded="false" />
+            <element signature="e#9275#10213#0" expanded="false" />
+            <element signature="e#10250#11005#0" expanded="false" />
+            <element signature="e#11042#11959#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/userManagCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5580">
+          <caret line="186" column="29" lean-forward="false" selection-start-line="186" selection-start-column="22" selection-end-line="186" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/css/userMange.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="41" column="1" lean-forward="false" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/Factory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/作业/第二阶段作业/电商秒杀平台项目/clinet/js/cutomerbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="180" column="55" lean-forward="false" selection-start-line="180" selection-start-column="47" selection-end-line="180" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/userModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <marker date="1517487976024" expanded="true" signature="206:266" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="412:514" ph="INSERT INTO staff... " />
+            <marker date="1517487976024" expanded="true" signature="642:708" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="642:709" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="642:716" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="642:725" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="1026:1078" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="1219:1273" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="1415:1471" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="1612:1669" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="1944:1991" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="2106:2153" ph="UPDATE staff... " />
+            <marker date="1517487976024" expanded="true" signature="2284:2365" ph="select * FRO... staff" />
+            <marker date="1517487976024" expanded="true" signature="2494:2512" ph="select * FRO... role" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/cutomerboxModel_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <marker date="1517543104029" expanded="true" signature="212:293" ph="select * FRO... staff" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/employManagCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/作业/第二阶段作业/电商秒杀平台项目/clinet/js/customerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="168" column="0" lean-forward="false" selection-start-line="168" selection-start-column="0" selection-end-line="215" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="6211" column="76" lean-forward="false" selection-start-line="6211" selection-start-column="70" selection-end-line="6211" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/作业/第二阶段作业/电商秒杀平台项目/sever/sever.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="203" column="72" lean-forward="false" selection-start-line="203" selection-start-column="62" selection-end-line="203" selection-end-column="72" />
+          <folding>
+            <element signature="e#8127#9893#0" expanded="false" />
+            <element signature="e#9902#10139#0" expanded="false" />
+            <element signature="e#10148#11687#0" expanded="false" />
+            <element signature="e#11696#11954#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/view/js/customerService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="n#!!block;n#showLogin#0" expanded="false" />
+            <element signature="e#2155#2762#0" expanded="false" />
+            <element signature="n#!!block;n#getCookie#0" expanded="false" />
+            <element signature="n#!!block;n#cusemer#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/cutomerbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="88" lean-forward="false" selection-start-line="11" selection-start-column="88" selection-end-line="11" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../beforeProject/view/customerService.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="54" column="46" lean-forward="false" selection-start-line="54" selection-start-column="37" selection-end-line="54" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view/js/cutomerbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="44" column="54" lean-forward="false" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+          <folding>
+            <element signature="n#!!block;n#getCookie#0" expanded="false" />
+            <element signature="e#1368#6376#0" expanded="false" />
+            <marker date="1517549757200" expanded="true" signature="2669:2680" ph="..." />
+            <marker date="1517549757200" expanded="true" signature="2752:2763" ph="..." />
+            <marker date="1517549757200" expanded="true" signature="4536:4547" ph="..." />
+            <marker date="1517549757200" expanded="true" signature="4611:4622" ph="..." />
+            <marker date="1517549757200" expanded="true" signature="5533:5544" ph="..." />
+            <marker date="1517549757200" expanded="true" signature="5608:5619" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sever/sever.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/control/cutomerboxCon_class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

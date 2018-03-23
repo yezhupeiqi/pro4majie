@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>员工管理</title>
+    <link rel="stylesheet" href="./view/css/userMange.css" type="text/css">
+</head>
+<body>
+    <h2>员工管理</h2>
+    <br/>
+    <p>
+        <span>
+            <input type="button" value="✙添加" id="addS">
+        </span>
+        <span>
+            <input type="button" value="使用/锁定" id="clkBtn">
+        </span>
+        <span>
+            	<b>员工状态：</b>
+            <select id="selectS">
+                <option>使用</option>
+                <option>锁定</option>
+            </select>
+        </span>
+    </p>
+    <br/>
+    <div id="showSaffe"></div>
+    <br/>
+    <div>
+        <form method="post" action="" id="form" style="display: none">
+            <table class="table_min">
+                <tr>
+                    <th class="t_td">员工账号</th>
+                    <th class="t_td">初始密码</th>
+                    <th class="t_td">用户名称</th>
+                    <th class="t_td">用户角色</th>
+                    <th class="t_td">操作</th>
+                </tr>
+                <tr>
+                    <td class="t_td">
+                        <input type="text" name="user" style="border: none"/>
+                    </td>
+                    <td class="t_td">
+                        <input type="password" name="psd" style="border: none"/>
+                    </td>
+                    <td class="t_td">
+                        <input type="text" name="username" style="border: none"/>
+                    </td>
+                    <td class="t_td" id="rolepart">
+
+                    </td>
+                    <td class="t_td">
+                        <span id="addBtn" class='operation'>添加</span>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <br/>
+    <div id="showM">
+
+    </div>
+    <br/>
+    <div id="showPwd"></div>
+    <div id="role_select"></div>
+</body>
+<script src="./view/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+<script>
+    //显示员工数据
+    $.ajax({
+        type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+        url: "./index.php?a=userManag&c=showSaffe",  //发送请求的地址
+        dataType:"json",        //规定返回值的类型
+        success: function(res) {//请求成功后的回调函数
+            var $div=$('#showSaffe');
+            $div.empty();
+            var $table=$("<table class='table' id='maxTab'></table>");
+            var $th=$("<tr><th class='t_td' onchange='thBox()'><input type='checkbox'></th><td class='t_td'>账户</td><td class='t_td'>用户名称</td>" +
+                "<td class='t_td'>用户角色</td><td class='t_td'>用户状态</td>" +
+                "<td class='t_td'>操作</td></tr>");
+            $table.append($th);
+            for(var i=0;i<res.length;i++){
+                var $tr=$("<tr></tr>");
+                var $td1=$("<td class='t_td'><input type='checkbox' id="+res[i].s_id+"></td>");
+                var $td2=$("<td class='t_td'>"+res[i].s_id+"</td>");
+                var $td3=$("<td class='t_td'>"+res[i].s_name+"</td>");
+                var $td4=$("<td class='t_td'>"+res[i].r_name+"</td>");
+                var $td5=$("<td class='t_td'>"+res[i].state+"</td>");
+                var $td6=$("<td class='t_td'></td>");
+                var $span1=$("<span id='"+res[i].s_id+"' class='operation' onclick='showsatffe()'>修改</span>");
+                var $span2=$("<span id='"+res[i].s_id+"' class='operation' onclick='deleteStaffe()'>删除</span>");
+                $td6.append($span1,$span2);
+                $tr.append($td1,$td2,$td3,$td4,$td5,$td6);
+                $table.append($tr);
+            }
+            $div.append($table);
+        },
+        error: function(res) {  //请求失败时调用此函数。
+            alert("error");
+        }
+    });
+    //添加
+    $('#addS').click(function () {
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=roleSelect",  //发送请求的地址
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var $td=$('#rolepart');
+                var $select=$("<select class='sele' name='roleid' size=1></select>");
+                for(var i=0;i<res.length;i++){
+                    var $option=$("<option value='"+res[i].r_id+"'>"+res[i].r_name+"</option>");
+                    $select.append($option);
+                }
+                $td.append($select);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                alert("error");
+            }
+        });
+        $('#form').toggle(100);
+    });
+    //添加员工
+    $('#addBtn').click(function () {
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=addStaff",  //发送请求的地址
+            data:  $('#form').serialize(),       //类型：String,发送到服务器的数据
+            dataType:"text",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                if(res == 'yes'){
+                    alert('添加成功！');
+                    window.location.reload();
+                }
+                else if(res == 'no'){
+                    alert('添加失败！');
+                }
+                else if(res == '0'){
+                    alert('添加失败,信息不能为空！');
+                }
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    });
+    //删除角色
+    function deleteStaffe() {
+        var s_id=$(event.target).attr('id');
+        var re=confirm('是否删除该员工！');
+        if(re){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=userManag&c=deletStaff",  //发送请求的地址
+                data: 'id='+s_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('删除成功！');
+                        window.location.reload();
+                    }
+                    else {
+                        alert('由于该员工已被锁定，删除失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+    }
+    //显示修改的员工
+    function showsatffe() {
+        var s_id=$(event.target).attr('id');
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=showModify",  //发送请求的地址
+            data: 'id='+s_id,       //类型：String,发送到服务器的数据
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var $div=$('#showM');
+                $div.empty();
+                var $form=$("<form method='post' action='' id='modForm'></form>");
+                var $table=$("<table class='table_m'></table>");
+                var $th=$("<tr><td class='t_td'>用户ID</td><td class='t_td'>操作</td><td class='t_td'>用户名称</td><td class='t_td'>操作</td>" +
+                    "<td class='t_td'>密码</td><td class='t_td'>角色名称</td></tr>");
+                $table.append($th);
+                for(var i=0;i<res.length;i++){
+                    var $tr=$("<tr></tr>");
+                    var $td1=$("<td class='t_td'>"+res[i].s_id+"</td>");
+                    var $td2=$("<td class='t_td'><span class='operation' id='"+res[i].s_id+"' onclick='modId()'>修改</span></td>");
+                    var $td3=$("<td class='t_td'>"+res[i].s_name+"</td>");
+                    var $td4=$("<td class='t_td'><span class='operation' id='"+res[i].s_id+"' onclick='modName()'>修改</span></td>");
+                    var $td5=$("<td class='t_td'><span class='operation' id='"+res[i].s_id+"' onclick='modPwd()'>重置</span></td>");
+                    var $td6=$("<td class='t_td'>"+res[i].r_name+"</td>");
+                    $tr.append($td1,$td2,$td3,$td4,$td5,$td6);
+                }
+                $table.append($tr);
+                $form.append($table);
+                $div.append($form);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    }
+    //角色下拉框
+    function selRole() {
+        var saffid=$(event.target).attr('id');
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=roleSelect",  //发送请求的地址
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var $div=$('#role_select');
+                $div.empty();
+                var $select=$("<select class='sele' id='selectRol'></select>");
+                for(var i=0;i<res.length;i++){
+                    var $option=$("<option value='"+res[i].r_id+"'>"+res[i].r_name+"</option>");
+                    $select.append($option);
+                }
+                var $input=$("<input type='button' value='确定修改' id='"+saffid+"' onclick='modName()' style='margin-left: 5px'>")
+                $div.append($select,$input);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                alert("error");
+            }
+        });
+    }
+    //修改员工id
+    function modId() {
+        var s_id=$(event.target).attr('id');
+        var id=prompt('请输入要修改的id！');
+        if(id != '' && id != null){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=userManag&c=modId",  //发送请求的地址
+                data:  's_id='+id+'&id='+s_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('修改成功！');
+                        window.location.reload();
+                    }
+                    else if(res == 'no'){
+                        alert('由于该员工已被锁定，修改失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+
+        }
+        else {
+            alert('要修改的内容不能为空');
+        }
+    }
+    //修改角色名称
+    function modName() {
+        var s_id=$(event.target).attr('id');
+        var r_id=$('#selectRol').val();
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=modName",  //发送请求的地址
+            data:  's_name='+r_id+'&id='+s_id,       //类型：String,发送到服务器的数据
+            dataType:"text",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                if(res == '1'){
+                    alert('修改成功！');
+                    window.location.reload();
+                }
+                else {
+                    alert('由于该员工已被锁定，修改失败！');
+                }
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    }
+    //修改员工角色
+    function modRole() {
+        var s_id=$(event.target).attr('id');
+        var re=confirm('是否修改角色！');
+        if(re){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=userManag&c=modRole",  //发送请求的地址
+                data:  $('#modForm').serialize()+'&id='+s_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('修改成功！');
+                        window.location.reload();
+                    }
+                    else {
+                        alert('由于该员工已被锁定，修改失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+        else {
+            alert('要修改的内容不能为空');
+        }
+    }
+    //重置密码
+    function modPwd() {
+        var s_id=$(event.target).attr('id');
+        var re=confirm('是否重置密码?');
+        if(re){
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=userManag&c=modPwd",  //发送请求的地址
+                data:  'id='+s_id,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('重置密码成功！');
+                    }
+                    else {
+                        alert('由于该员工已被锁定，重置密码失败！');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+        else {
+            alert('要修改的内容不能为空');
+        }
+
+
+    }
+    //全选
+    function thBox() {
+        $('#maxTab').find('tr').find('input').prop('checked',$(event.target).prop('checked'));
+    }
+    $('#clkBtn').click(function () {
+        var check=$('#maxTab').find('tr').find('input');
+        $arr=[];
+        for(var i=0;i<check.length;i++){
+            if($(check[i]).prop('checked') == true){
+                if(i != 0){
+                    var id=$(check[i]).attr('id');
+                    $arr.push(id);
+                }
+            }
+        }
+        if($arr.length != 0){
+            var stafArr=JSON.stringify($arr);
+            $.ajax({
+                type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+                url: "./index.php?a=userManag&c=modState",  //发送请求的地址
+                data: 'arr='+stafArr,       //类型：String,发送到服务器的数据
+                dataType:"text",        //规定返回值的类型
+                success: function(res) {//请求成功后的回调函数
+                    if(res == '1'){
+                        alert('修改成功');
+                        window.location.reload();
+                    }
+                    else {
+                        alert('修改失败');
+                    }
+                },
+                error: function(res) {  //请求失败时调用此函数。
+                    console.log(res);
+                }
+            });
+        }
+        else {
+            alert('操作错误！');
+        }
+    });
+    //切换状态信息
+    $('#selectS').change(function () {
+        var state=$('#selectS').val();
+        $.ajax({
+            type: "post",      //请求方式 ("POST" 或 "GET")， 默认为 "GET"
+            url: "./index.php?a=userManag&c=switchSta",  //发送请求的地址
+            data: 'state='+state,       //类型：String,发送到服务器的数据
+            dataType:"json",        //规定返回值的类型
+            success: function(res) {//请求成功后的回调函数
+                var $div=$('#showSaffe');
+                $div.empty();
+                var $table=$("<table class='table' id='maxTab'></table>");
+                var $th=$("<tr><th class='t_td' onchange='thBox()'><input type='checkbox'></th><td class='t_td'>账户</td><td class='t_td'>用户名称</td>" +
+                    "<td class='t_td'>用户角色</td><td class='t_td'>用户状态</td>" +
+                    "<td class='t_td'>操作</td></tr>");
+                $table.append($th);
+                for(var i=0;i<res.length;i++){
+                    var $tr=$("<tr></tr>");
+                    var $td1=$("<td class='t_td'><input type='checkbox' id="+res[i].s_id+"></td>");
+                    var $td2=$("<td class='t_td'>"+res[i].s_id+"</td>");
+                    var $td3=$("<td class='t_td'>"+res[i].s_name+"</td>");
+                    var $td4=$("<td class='t_td'>"+res[i].r_name+"</td>");
+                    var $td5=$("<td class='t_td'>"+res[i].state+"</td>");
+                    var $td6=$("<td class='t_td'></td>");
+                    var $span1=$("<span id='"+res[i].s_id+"' class='operation' onclick='showsatffe()'>修改</span>");
+                    var $span2=$("<span id='"+res[i].s_id+"' class='operation' onclick='deleteStaffe()'>删除</span>");
+                    $td6.append($span1,$span2);
+                    $tr.append($td1,$td2,$td3,$td4,$td5,$td6);
+                    $table.append($tr);
+                }
+                $div.append($table);
+            },
+            error: function(res) {  //请求失败时调用此函数。
+                console.log(res);
+            }
+        });
+    })
+
+
+
+
+</script>
+</html>

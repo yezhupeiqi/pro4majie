@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>电商秒杀后台登录</title>
+    <link rel="stylesheet" href="./view/css/login.css" type="text/css">
+    <script src="./view/js/angular.js"></script>
+</head>
+<body id="back" ng-app="myApp">
+<div id="header">
+</div>
+<div id="content">
+    <div id="back_min">
+        <div id="login">
+            <p style="color:white;margin-top: 10px;margin-left: 100px;font-size: 30px";>电商秒杀后台登录</p>
+            <form method="post" action="./index.php?a=Login&c=login" ng-controller="myCtrl" name="myForm" novalidate>
+                <P style="margin-top: 40px;margin-left: 50px">
+                    <span class="login_text">员工账号：</span>
+                    <span>
+                        <input type="text" value="<?php echo $_COOKIE['id']?>" class="login_ipt" name="user" ng-model="user" required/>
+                    </span>
+                    <p ng-show="myForm.user.$dirty && myForm.user.$invalid">
+                        <p ng-show="myForm.user.$error.required" style="color: red;margin-left:160px;">用户名不能为空</p>
+                    </p>
+                </P>
+                <P style="margin-top: 10px;margin-left: 50px">
+                    <span class="login_text">账号密码：</span>
+                    <span><input type="password" class="login_ipt" name="psd" ng-model="psd" required/></span>
+                    <p ng-show="myForm.psd.$dirty && myForm.psd.$invalid">
+                        <p ng-show="myForm.psd.$error.required" style="color: red;margin-left:160px;">密码不能为空</p>
+                    </p>
+                </P>
+                <p style="margin-top: 10px;margin-left: 50px">
+                    <span style="float: left;color: white"> 验证码：</span>
+                    <input type="text" name="code" style="width: 70px;height: 30px;float: left;border: 1px solid #dddddd" onblur="mycode()">
+                    <img src="./public/code.php" onclick="this.src='./public/code.php?r='+Math.random()" style="width: 130px;height: 30px;margin-top: 5px;margin-left: 5px;float: left">
+                    <span id="codeQ" style="display: none;color: greenyellow">验证码正确</span>
+                    <span id="codeF" style="display: none;color: red">验证码错误</span>
+                </p>
+                <P style="margin-top: 10px;margin-left: 120px">
+                    <input type="submit" value="登录" id="login_btn">
+                </P>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+<script src="./view/jquery-ui-1.12.1.custom/external/jquery/jquery.js"></script>
+<script>
+    var app=angular.module('myApp',[]);
+    app.controller('myCtrl',function ($scope,$http) {
+        $http({
+            mothod:"get",
+            url:"./index.php?a=Login&c=showSchool"
+        }).then(function syccess(res) {
+            $scope.school=res.data;
+        },function error(res) {
+            console.log(res,1);
+        });
+    });
+    //验证码
+    function mycode(){
+        var code=$(event.target).val();
+        var ajax= new XMLHttpRequest();
+        //实例化一个AJAX的对象 这时它为未初始状态
+        ajax.open('get','index.php?a=Login&c=code&code='+code,true);
+        //此时服务器连接已建立
+        ajax.send();
+        ajax.onreadystatechange=function() {
+            if(ajax.readyState==4 && ajax.status==200){
+                if(ajax.responseText=='true'){
+                    $('#codeQ').css('display','block');
+                    $('#codeF').css('display','none');
+                }
+                else {
+                    $('#codeF').css('display','block');
+                    $('#codeQ').css('display','none');
+                }
+            }
+        }
+    }
+</script>
+
+
+</html>

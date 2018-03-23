@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*详情*/
+#mcsImg{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -155px;
+}
+#commodities{
+    width: 700px;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 40px;
+    border: 2px solid #aaaaaa;
+}
+#dataM{
+    width: 300px;
+    height: 500px;
+    border: 1px solid #dddddd;
+    margin-top: 30px;
+    margin-left: 20px;
+
+}
+.mcsData{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+#mcsImg{
+    border: 2px solid #dddddd;
+}
+#comeBack{
+    width: 60px;
+    height: 20px;
+    border-radius: 3px;
+    margin-right: 20px;
+    margin-top: -15px;
+    float: right;
+    background-color: #fddfdf;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+

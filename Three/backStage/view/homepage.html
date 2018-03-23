@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>后台管理页</title>
+    <link rel="stylesheet" href="./view/css/homepage.css" type="text/css">
+    <script src="./view/js/angular.js"></script>
+</head>
+<body ng-app="myApp" bgcolor="#BBFFFF">
+    <div id="header">
+        <p id="heaer_tit">
+            <span>电商秒杀后台管理</span>
+        </p>
+        <p id="show" ng-controller="myNav">
+            <span class="perData">欢迎您 </span>
+            <span ng-repeat="x in nav" class="perData">
+                {{x.s_id}}，
+            </span>
+            <span style="color: white" ng-repeat="y in nav" class="perData">
+            	您是
+                {{y.r_name}}
+            </span>
+            <span>
+                <a href="index.php?a=Login&c=out" class="perData">注销</a>
+            </span>
+        </p>
+    </div>
+    <div  id="all_content" ng-controller="myCtrl">
+        <div id="content">
+            <div id="all_menu" style="float: left">
+                <div id="menu" ng-repeat="x in menu" ng-if="x.fid == 0" class="f_menu">
+                    <b style="font-size: 18px;" class="menu_ul">{{x.a_name}}</b>
+                    <ul ng-show="check[x.a_id-1]">
+                        <li class="s_menu" ng-repeat="y in menu" ng-if="y.fid == x.a_id" ng-click="changUrl(y.url)"
+                            style="font-size: 15px;margin-left: 30px">{{y.a_name}}</li>
+                    </ul>
+                </div>
+            </div>
+            <div id="text" style="float: left">
+                <iframe ng-src="{{Url}}" width="800" height="600px" id="iframe"></iframe>
+            </div>
+        </div>
+
+    </div>
+</body>
+<script>
+    var app=angular.module('myApp',[]);
+    app.controller('myCtrl',function ($scope,$http) {
+        $scope.check=[true,true,true];
+        $http({
+            mothod:"get",
+            url:"./index.php?a=Login&c=showMenu"
+        }).then(function syccess(res) {
+            $scope.menu=res.data;
+        },function error(res) {
+            console.log(res,1);
+        });
+        $scope.changUrl=function (url) {
+            $scope.Url=url;
+        };
+        $scope.lishow=function (index) {
+            $scope.check[index]=!$scope.check[index];
+        }
+    });
+    app.controller('myNav',function ($scope,$http) {
+        $http({
+            mothod:"get",
+            url:"./index.php?a=Login&c=showNav"
+        }).then(function syccess(res) {
+            $scope.nav=res.data;
+        },function error(res) {
+            console.log(res,1);
+        });
+    });
+
+</script>
+</html>
+
+
+
+

@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*表格*/
+.operation{
+    font-size: 13px;
+    margin-left: 10px;
+    color: #003eff;
+    cursor:pointer;
+}
+
+.table{
+    width: 500px;
+    height: 200px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+.t_td{
+    border: 2px solid black;
+    text-align: center;
+
+}
+.table_min{
+    margin-left: 20px;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+.table_m{
+    width: 500px;
+    height: 50px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+.ipt_tx{
+    border: none;
+}
+#role_select{
+    margin-left: 20px;
+}
